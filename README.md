@@ -1,4 +1,6 @@
 # Big Vision
+> **Getting Started:**
+> [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/gradient-ai/big_vision?machine=Free-GPU)
 
 This codebase is designed for training large-scale vision models using
 [Cloud TPU VMs](https://cloud.google.com/blog/products/compute/introducing-cloud-tpu-vms)
